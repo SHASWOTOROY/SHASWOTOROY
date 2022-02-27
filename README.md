@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github.com/SHASWOTOROY/SHASWOTOROY/blob/main/Icon/Developer.gif" width='200'/>
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and researcher at Credit Suisse, working on production of trading applications using the .NET framework. \
+💡 &nbsp; I'm a software developer and researcher, working on production of trading applications using the various languages. \
 💻 &nbsp;I'm currently learning DSA and practice CP\
 🎓&nbsp;I am studying on AIUB.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
