@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 💡 &nbsp; I'm a software developer and researcher, working on production of trading applications using the various languages. \
 💻 &nbsp;I'm currently learning DSA and practice CP\
 🎓&nbsp;I am studying on AIUB.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✉️ &nbsp;You can email me at shaswataroy867@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://shaswataroy867.wixsite.com/my-portfolio) for more details about work experience.
 
  ### 🛠 &nbsp;Tech Stack
@@ -44,4 +42,10 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Recursive404)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/recursive_404)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/shaswata2015)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/acm.svg' alt='acm' height='40'>](https://atcoder.jp/users/recursive_404)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/profile/)  
+
 
